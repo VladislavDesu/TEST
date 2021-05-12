@@ -27,6 +27,6 @@
     "gulp-ttf2woff2": "^3.0.0",
     "gulp-uglify": "^3.0.2",
     "gulp-webp": "^4.0.1",
-    "postcss": "^8.2.1"
+    "postcss": "^8.2.10"
   }
 }
